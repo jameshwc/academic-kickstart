@@ -14,6 +14,9 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
+[design]
+  columns = "2"
+
 [[feature]]
   icon = "linux"
   icon_pack = "fab"
