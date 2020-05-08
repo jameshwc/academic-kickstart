@@ -9,8 +9,8 @@
 
 # Uncomment the lines below to configure your website in a second language.#
 [zh]
-  languageCode = "zh-Hans"
-  contentDir = "content/zh/"
+  languageCode = "zh-Hant"
+  contentDir = "content/zh-Hant/"
   title = "徐維謙 Hsu Wei-Chien"
   [zh.params]
     description = "介紹"
