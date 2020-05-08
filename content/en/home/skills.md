@@ -15,21 +15,27 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "linux"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "DevOps"
+  description = "CI/CD Pipelines (gitlab, drone, aws), Containerized applications (docker-in-docker, kubernetes), Monitoring (Prometheus, Grafana)"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  icon = "aws"
+  icon_pack = "fab"
+  name = "Cloud services"
+  description = "Mostly aws services including lambda, ec2(ELB and Auto scaling), cdk and eks; got experienced with azure and google cloud as well."  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "code"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
-
+  name = "Go"
+  description = """
+  About 6 months experience
+  """
+[[feature]]
+  icon = "python"
+  icon_pack = "fas"
+  name = "Python"
+  description = "About 1 year experience"
 +++
