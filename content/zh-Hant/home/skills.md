@@ -15,21 +15,28 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "linux"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "DevOps"
+  description = "CI/CD 流程 (gitlab, drone, aws), 容器技術 (docker-in-docker, kubernetes), 監控 (Prometheus, Grafana)"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  icon = "aws"
+  icon_pack = "fab"
+  name = "Cloud services"
+  description = "aws 的服務，包含 lambda、ec2(ELB 和 Auto scaling)、cdk、eks 等等，也用過 azure 的虛擬機器和 google cloud 的服務等等"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "code"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Go"
+  description = """
+  大約六個月經驗
+  """
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "大約一年經驗"
 
 +++
