@@ -24,3 +24,18 @@
    name = "CV"
    url = "files/cv.pdf"
    weight = 70
+
+[[main.zh-Hant]]
+  name = "技能"
+  url = "#skills"
+  weight = 20
+
+[[main.zh-Hant]]
+  name = "工作經驗"
+  url = "#experience"
+  weight = 30
+
+[[main.zh-Hant]]
+   name = "CV"
+   url = "files/cv-zh.pdf"
+   weight = 70
