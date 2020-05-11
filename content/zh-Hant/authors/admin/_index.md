@@ -18,9 +18,9 @@ organizations:
   url: "www.ntu.edu.tw"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 追求技術有極高的熱情，不滿足於課堂所學習的知識，喜歡自學、實作，並享受解決問題的過程。
+bio:  "追求技術有極高的熱情，不滿足於課堂所學習的知識，喜歡自學、實作，並享受解決問題的過程。
 曾在學期中的閒暇之餘，獨立自學了Django與架站，並架設了一個可以註冊與登入和下載檔案的網站，與用hugo架設的部落格，並使用自架之gitlab存放作品之原始碼。
-自認學習彈性高、學習速度快，架站、Django都是在課業之餘自己學的，而在NTU COOL實習期間也能充分展示出我的積極主動！
+自認學習彈性高、學習速度快，架站、Django都是在課業之餘自己學的，而在NTU COOL實習期間也能充分展示出我的積極主動！"
 
 interests:
 - DevOps
