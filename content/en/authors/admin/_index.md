@@ -10,19 +10,22 @@ authors:
 superuser: true
 
 # Role/position
-role: Sophomore major in Computer Science and Information Engineering
+role: Incoming Software Engineer @ ByteDance London
 
 # Organizations/Affiliations
 organizations:
+- name: ByteDance
+  url: "https://www.bytedance.com/en/"
 - name: National Taiwan University
-  url: "www.ntu.edu.tw"
+  url: "https://www.csie.ntu.edu.tw"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I have great passion for software technologies. I do not limit myself to pursuing academic achievement; instead, I enjoy learning actively and implementing what I just learned. It really intrigues me a lot to solve challenging problems!
 
 interests:
 - DevOps
-- Information Retrieval
+- Site Reliability Engineer
+- Backend
 
 education:
   courses:
@@ -68,10 +71,7 @@ email: "jameshwc@gmail.com"
 
 I have great passion for software technologies. I do not limit myself to pursuing academic achievement; instead, I enjoy learning actively and implementing what I just learned. It really intrigues me a lot to solve challenging problems!
 
-I have learned Django and web hosting on my own during term time, and deployed a website that allows users to download files after register and login. I also created a blog using hugo to post some thoughts. To automate the deployment, I set up a gitlab server to save my repositories and create CI/CD pipelines as well.
-
 I consider myself as a fast learner, and my working experience has fully shown my initiative!
 
 - [Personal Blog](https://blog.jameshsu.csie.org)
 - [Technical Blog](https://tech-blog.jameshsu.csie.org)
-- [Django website](https://django.jameshsu.csie.org)

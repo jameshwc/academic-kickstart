@@ -8,13 +8,13 @@
   contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
 
 # Uncomment the lines below to configure your website in a second language.#
-[zh]
-  languageCode = "zh-Hant"
-  contentDir = "content/zh-Hant/"
-  title = "徐維謙 Hsu Wei-Chien"
-  [zh.params]
-    description = "介紹"
-  [[zh.menu.main]]
-    name = "關於"
-    url = "#about"
-    weight = 1
+# [zh]
+#   languageCode = "zh-Hant"
+#   contentDir = "content/zh-Hant/"
+#   title = "徐維謙 Hsu Wei-Chien"
+#   [zh.params]
+#     description = "介紹"
+#   [[zh.menu.main]]
+#     name = "關於"
+#     url = "#about"
+#     weight = 1
